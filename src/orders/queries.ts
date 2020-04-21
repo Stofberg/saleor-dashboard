@@ -358,6 +358,7 @@ const orderFulfillData = gql`
               id
             }
             quantity
+            quantityAllocated
           }
         }
         thumbnail(size: 64) {
