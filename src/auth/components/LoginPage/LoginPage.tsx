@@ -109,7 +109,7 @@ const LoginCard: React.FC<LoginCardProps> = props => {
           <FormSpacer />
           <Typography className={classes.link} onClick={onPasswordRecovery}>
             <FormattedMessage
-              defaultMessage="Reset your password"
+              defaultMessage="Reset jou fokken password"
               description="button"
             />
           </Typography>
