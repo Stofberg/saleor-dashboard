@@ -4,7 +4,7 @@ import SVG from "react-inlinesvg";
 
 import backgroundArt from "@assets/images/login-background.svg";
 import saleorDarkLogo from "@assets/images/logo-dark.svg";
-import saleorLightLogo from "@assets/images/logo-light.svg";
+import saleorLightLogo from "@assets/images/logo-dark.svg";
 import useTheme from "@saleor/hooks/useTheme";
 
 const useStyles = makeStyles(
